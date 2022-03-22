@@ -1,0 +1,7 @@
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Summer 2020-21\Publisher Subscriber[I]\Publisher Subscriber[I]\bin\Debug\Publisher Subscriber[I].exe.config
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Summer 2020-21\Publisher Subscriber[I]\Publisher Subscriber[I]\bin\Debug\Publisher Subscriber[I].exe
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Summer 2020-21\Publisher Subscriber[I]\Publisher Subscriber[I]\bin\Debug\Publisher Subscriber[I].pdb
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Summer 2020-21\Publisher Subscriber[I]\Publisher Subscriber[I]\obj\Debug\Publisher Subscriber[I].csprojAssemblyReference.cache
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Summer 2020-21\Publisher Subscriber[I]\Publisher Subscriber[I]\obj\Debug\Publisher Subscriber[I].csproj.CoreCompileInputs.cache
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Summer 2020-21\Publisher Subscriber[I]\Publisher Subscriber[I]\obj\Debug\Publisher Subscriber[I].exe
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Summer 2020-21\Publisher Subscriber[I]\Publisher Subscriber[I]\obj\Debug\Publisher Subscriber[I].pdb

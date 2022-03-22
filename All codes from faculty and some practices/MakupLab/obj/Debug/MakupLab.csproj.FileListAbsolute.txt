@@ -1,0 +1,7 @@
+C:\Users\User\Documents\(1)OOP2\MakupLab\obj\Debug\MakupLab.csprojAssemblyReference.cache
+C:\Users\User\Documents\(1)OOP2\MakupLab\obj\Debug\MakupLab.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\(1)OOP2\MakupLab\bin\Debug\MakupLab.exe.config
+C:\Users\User\Documents\(1)OOP2\MakupLab\bin\Debug\MakupLab.exe
+C:\Users\User\Documents\(1)OOP2\MakupLab\bin\Debug\MakupLab.pdb
+C:\Users\User\Documents\(1)OOP2\MakupLab\obj\Debug\MakupLab.exe
+C:\Users\User\Documents\(1)OOP2\MakupLab\obj\Debug\MakupLab.pdb

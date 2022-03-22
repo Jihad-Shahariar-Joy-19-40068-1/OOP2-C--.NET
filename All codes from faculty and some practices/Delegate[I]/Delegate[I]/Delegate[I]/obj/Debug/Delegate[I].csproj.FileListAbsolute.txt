@@ -1,0 +1,7 @@
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Summer 2020-21\Delegate[I]\Delegate[I]\bin\Debug\Delegate[I].exe.config
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Summer 2020-21\Delegate[I]\Delegate[I]\bin\Debug\Delegate[I].exe
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Summer 2020-21\Delegate[I]\Delegate[I]\bin\Debug\Delegate[I].pdb
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Summer 2020-21\Delegate[I]\Delegate[I]\obj\Debug\Delegate[I].csprojAssemblyReference.cache
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Summer 2020-21\Delegate[I]\Delegate[I]\obj\Debug\Delegate[I].csproj.CoreCompileInputs.cache
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Summer 2020-21\Delegate[I]\Delegate[I]\obj\Debug\Delegate[I].exe
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Summer 2020-21\Delegate[I]\Delegate[I]\obj\Debug\Delegate[I].pdb

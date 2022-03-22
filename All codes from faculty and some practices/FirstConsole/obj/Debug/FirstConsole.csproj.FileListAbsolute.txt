@@ -1,0 +1,7 @@
+C:\Users\User\Documents\OOP2\FirstConsole\bin\Debug\FirstConsole.exe.config
+C:\Users\User\Documents\OOP2\FirstConsole\bin\Debug\FirstConsole.exe
+C:\Users\User\Documents\OOP2\FirstConsole\bin\Debug\FirstConsole.pdb
+C:\Users\User\Documents\OOP2\FirstConsole\obj\Debug\FirstConsole.csprojAssemblyReference.cache
+C:\Users\User\Documents\OOP2\FirstConsole\obj\Debug\FirstConsole.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\OOP2\FirstConsole\obj\Debug\FirstConsole.exe
+C:\Users\User\Documents\OOP2\FirstConsole\obj\Debug\FirstConsole.pdb

@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\MidTermLabAssignment\bin\Debug\MidTermLabAssignment.exe.config
+C:\Users\User\source\repos\MidTermLabAssignment\bin\Debug\MidTermLabAssignment.exe
+C:\Users\User\source\repos\MidTermLabAssignment\bin\Debug\MidTermLabAssignment.pdb
+C:\Users\User\source\repos\MidTermLabAssignment\obj\Debug\MidTermLabAssignment.csprojAssemblyReference.cache
+C:\Users\User\source\repos\MidTermLabAssignment\obj\Debug\MidTermLabAssignment.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MidTermLabAssignment\obj\Debug\MidTermLabAssignment.exe
+C:\Users\User\source\repos\MidTermLabAssignment\obj\Debug\MidTermLabAssignment.pdb

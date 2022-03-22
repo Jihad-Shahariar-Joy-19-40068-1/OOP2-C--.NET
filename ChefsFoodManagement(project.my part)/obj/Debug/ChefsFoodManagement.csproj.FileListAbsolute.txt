@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\ChefsFoodManagement\bin\Debug\ChefsFoodManagement.exe.config
+C:\Users\User\source\repos\ChefsFoodManagement\bin\Debug\ChefsFoodManagement.exe
+C:\Users\User\source\repos\ChefsFoodManagement\bin\Debug\ChefsFoodManagement.pdb
+C:\Users\User\source\repos\ChefsFoodManagement\obj\Debug\ChefsFoodManagement.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ChefsFoodManagement\obj\Debug\ChefsFoodManagement.Presentation_Layer.ManageFood.resources
+C:\Users\User\source\repos\ChefsFoodManagement\obj\Debug\ChefsFoodManagement.Properties.Resources.resources
+C:\Users\User\source\repos\ChefsFoodManagement\obj\Debug\ChefsFoodManagement.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ChefsFoodManagement\obj\Debug\ChefsFoodManagement.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ChefsFoodManagement\obj\Debug\ChefsFoodManagement.exe
+C:\Users\User\source\repos\ChefsFoodManagement\obj\Debug\ChefsFoodManagement.pdb
+C:\Users\User\source\repos\ChefsFoodManagement\obj\Debug\ChefsFoodManagement.Presentation_Layer.FoodChart.resources

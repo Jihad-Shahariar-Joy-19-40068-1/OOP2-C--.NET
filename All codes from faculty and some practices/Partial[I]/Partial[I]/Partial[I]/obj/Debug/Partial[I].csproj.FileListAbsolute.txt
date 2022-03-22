@@ -1,0 +1,7 @@
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Summer 2020-21\Partial[I]\Partial[I]\bin\Debug\Partial[I].exe.config
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Summer 2020-21\Partial[I]\Partial[I]\bin\Debug\Partial[I].exe
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Summer 2020-21\Partial[I]\Partial[I]\bin\Debug\Partial[I].pdb
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Summer 2020-21\Partial[I]\Partial[I]\obj\Debug\Partial[I].csprojAssemblyReference.cache
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Summer 2020-21\Partial[I]\Partial[I]\obj\Debug\Partial[I].csproj.CoreCompileInputs.cache
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Summer 2020-21\Partial[I]\Partial[I]\obj\Debug\Partial[I].exe
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Summer 2020-21\Partial[I]\Partial[I]\obj\Debug\Partial[I].pdb

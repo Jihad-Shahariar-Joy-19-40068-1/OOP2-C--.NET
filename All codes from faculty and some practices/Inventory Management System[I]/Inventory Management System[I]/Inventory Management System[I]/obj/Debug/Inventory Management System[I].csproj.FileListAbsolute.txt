@@ -1,0 +1,14 @@
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Summer 2020-21\Inventory Management System[I]\Inventory Management System[I]\bin\Debug\Inventory Management System[I].exe.config
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Summer 2020-21\Inventory Management System[I]\Inventory Management System[I]\bin\Debug\Inventory Management System[I].exe
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Summer 2020-21\Inventory Management System[I]\Inventory Management System[I]\bin\Debug\Inventory Management System[I].pdb
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Summer 2020-21\Inventory Management System[I]\Inventory Management System[I]\obj\Debug\Inventory Management System[I].csprojAssemblyReference.cache
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Summer 2020-21\Inventory Management System[I]\Inventory Management System[I]\obj\Debug\Inventory_Management_System_I_.Presentation_Layer.ManageCategory.resources
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Summer 2020-21\Inventory Management System[I]\Inventory Management System[I]\obj\Debug\Inventory_Management_System_I_.Properties.Resources.resources
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Summer 2020-21\Inventory Management System[I]\Inventory Management System[I]\obj\Debug\Inventory Management System[I].csproj.GenerateResource.cache
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Summer 2020-21\Inventory Management System[I]\Inventory Management System[I]\obj\Debug\Inventory Management System[I].csproj.CoreCompileInputs.cache
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Summer 2020-21\Inventory Management System[I]\Inventory Management System[I]\obj\Debug\Inventory Management System[I].exe
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Summer 2020-21\Inventory Management System[I]\Inventory Management System[I]\obj\Debug\Inventory Management System[I].pdb
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Summer 2020-21\Inventory Management System[I]\Inventory Management System[I]\obj\Debug\Inventory_Management_System_I_.Presentation_Layer.ManageProduct.resources
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Summer 2020-21\Inventory Management System[I]\Inventory Management System[I]\obj\Debug\Inventory_Management_System_I_.Presentation_Layer.Dashboard.resources
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Summer 2020-21\Inventory Management System[I]\Inventory Management System[I]\obj\Debug\Inventory_Management_System_I_.Presentation_Layer.Login.resources
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Summer 2020-21\Inventory Management System[I]\Inventory Management System[I]\obj\Debug\User_Registration_I_.UserRegistration.resources

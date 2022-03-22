@@ -1,0 +1,6 @@
+C:\Users\User\Documents\(1)OOP2\Student\StudentClass\obj\Debug\StudentClass.csprojAssemblyReference.cache
+C:\Users\User\Documents\(1)OOP2\Student\StudentClass\obj\Debug\StudentClass.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\(1)OOP2\Student\StudentClass\bin\Debug\StudentClass.dll
+C:\Users\User\Documents\(1)OOP2\Student\StudentClass\bin\Debug\StudentClass.pdb
+C:\Users\User\Documents\(1)OOP2\Student\StudentClass\obj\Debug\StudentClass.dll
+C:\Users\User\Documents\(1)OOP2\Student\StudentClass\obj\Debug\StudentClass.pdb

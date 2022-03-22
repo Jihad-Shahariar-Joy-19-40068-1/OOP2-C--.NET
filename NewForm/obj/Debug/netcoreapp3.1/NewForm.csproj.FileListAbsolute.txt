@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\NewForm\obj\Debug\netcoreapp3.1\NewForm.csprojAssemblyReference.cache
+C:\Users\User\source\repos\NewForm\obj\Debug\netcoreapp3.1\NewForm.Form1.resources
+C:\Users\User\source\repos\NewForm\obj\Debug\netcoreapp3.1\NewForm.csproj.GenerateResource.cache
+C:\Users\User\source\repos\NewForm\obj\Debug\netcoreapp3.1\NewForm.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\NewForm\obj\Debug\netcoreapp3.1\NewForm.AssemblyInfo.cs
+C:\Users\User\source\repos\NewForm\obj\Debug\netcoreapp3.1\NewForm.csproj.CoreCompileInputs.cache

@@ -1,0 +1,2 @@
+C:\Users\User\Documents\OOP2\2ndCode\obj\Debug\2ndCode.csprojAssemblyReference.cache
+C:\Users\User\Documents\OOP2\2ndCode\obj\Debug\2ndCode.csproj.CoreCompileInputs.cache

@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\UserRegistration\bin\Debug\UserRegistration.exe.config
+C:\Users\User\source\repos\UserRegistration\bin\Debug\UserRegistration.exe
+C:\Users\User\source\repos\UserRegistration\bin\Debug\UserRegistration.pdb
+C:\Users\User\source\repos\UserRegistration\obj\Debug\UserRegistration.csprojAssemblyReference.cache
+C:\Users\User\source\repos\UserRegistration\obj\Debug\UserRegistration.UserRegistration.resources
+C:\Users\User\source\repos\UserRegistration\obj\Debug\UserRegistration.Properties.Resources.resources
+C:\Users\User\source\repos\UserRegistration\obj\Debug\UserRegistration.csproj.GenerateResource.cache
+C:\Users\User\source\repos\UserRegistration\obj\Debug\UserRegistration.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\UserRegistration\obj\Debug\UserRegistration.exe
+C:\Users\User\source\repos\UserRegistration\obj\Debug\UserRegistration.pdb
+C:\Users\User\source\repos\UserRegistration\obj\Debug\UserRegistration.Output.resources

@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Inventory Management System[I]\bin\Debug\Inventory Management System[I].exe.config
+C:\Users\User\source\repos\Inventory Management System[I]\bin\Debug\Inventory Management System[I].exe
+C:\Users\User\source\repos\Inventory Management System[I]\bin\Debug\Inventory Management System[I].pdb
+C:\Users\User\source\repos\Inventory Management System[I]\obj\Debug\Inventory Management System[I].csprojAssemblyReference.cache
+C:\Users\User\source\repos\Inventory Management System[I]\obj\Debug\Inventory_Management_System_I_.Presentation_Layer.ManageCategory.resources
+C:\Users\User\source\repos\Inventory Management System[I]\obj\Debug\Inventory_Management_System_I_.Properties.Resources.resources
+C:\Users\User\source\repos\Inventory Management System[I]\obj\Debug\Inventory Management System[I].csproj.GenerateResource.cache
+C:\Users\User\source\repos\Inventory Management System[I]\obj\Debug\Inventory Management System[I].csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Inventory Management System[I]\obj\Debug\Inventory Management System[I].exe
+C:\Users\User\source\repos\Inventory Management System[I]\obj\Debug\Inventory Management System[I].pdb
+C:\Users\User\source\repos\Inventory Management System[I]\obj\Debug\Inventory_Management_System_I_.Presentation_Layer.ManageProduct.resources
