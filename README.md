@@ -1,1 +1,1 @@
-# OOP2-C--.NET
+This repository contains all codes from my OOP2 course (C#/.NET)
